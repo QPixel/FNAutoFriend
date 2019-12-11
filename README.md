@@ -6,4 +6,10 @@ To run:
  2) Unzip and modify settings.json with your account credentials.
  3) Run node index.js or run the included bat.
  
- made by qpixel.
+ ## Dependencies
+
+### NPM
+
+- [fortnite-basic-api](https://www.npmjs.com/package/fortnite-basic-api)
+ 
+## made by qpixel.
