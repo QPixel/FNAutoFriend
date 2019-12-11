@@ -12,4 +12,5 @@ To run:
 
 - [fortnite-basic-api](https://www.npmjs.com/package/fortnite-basic-api)
  
-## made by qpixel.
+## made by qpixel. most of the code came from fortnite-basic-api example.
+### thanks iXyles.
